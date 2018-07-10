@@ -31,14 +31,14 @@
   "homepage": "https://github.com/subeeshcbabu/swagmock#readme",
   "dependencies": {
     "call-me-maybe": "^1.0.1",
-    "chance": "^1.0.3",
-    "moment": "^2.13.0",
-    "randexp": "^0.4.2",
-    "swagger-parser": "^3.4.1"
+    "chance": "^1.0.16",
+    "moment": "^2.22.2",
+    "randexp": "^0.4.9",
+    "swagger-parser": "^5.0.0"
   },
   "devDependencies": {
-    "eslint": "^2.13.0",
-    "istanbul": "^0.4.4",
-    "mocha": "^2.5.3"
+    "eslint": "^5.1.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
   }
 }
